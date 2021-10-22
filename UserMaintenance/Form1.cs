@@ -12,6 +12,7 @@ namespace UserMaintenance
 {
     public partial class Form1 : Form
     {
+        int a = 0;
         public Form1()
         {
             InitializeComponent();
